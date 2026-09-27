@@ -1,0 +1,28 @@
+{
+  "name": "com.infra2daction.core",
+  "version": "0.1.0",
+  "displayName": "Infraestructura 2D/Action Unity",
+  "description": "Event-driven, data-driven core architecture for 2D action-platformer games in Unity. Player, combat, AI, dialogue, quests, shops, cutscenes, save system, UI and more, wired through an EventBus with a single Bootstrap injection point: no runtime singletons, no Find calls.",
+  "unity": "6000.3",
+  "license": "MIT",
+  "author": {
+    "name": "Beltrán Luiz Rueda"
+  },
+  "keywords": [
+    "2d",
+    "platformer",
+    "metroidvania",
+    "architecture",
+    "framework",
+    "event-driven"
+  ],
+  "dependencies": {
+    "com.unity.inputsystem": "1.18.0",
+    "com.unity.cinemachine": "3.1.7",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.modules.tilemap": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.animation": "1.0.0"
+  }
+}
