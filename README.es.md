@@ -2,7 +2,7 @@
 
 Base de arquitectura para juegos 2D de acción y plataformas en Unity: comunicación entre sistemas, guardado, flujo de escenas, jugador, combate, IA, diálogos, misiones, tiendas, cinemáticas y mapa, todo conectado por eventos y configurado con datos.
 
-> **Estado:** [COMPLETAR: versión y estado real del proyecto, p. ej. "primera versión, en desarrollo".]
+> **Estado: Todavia en una version beta y desarollo. 
 
 ## Índice
 
