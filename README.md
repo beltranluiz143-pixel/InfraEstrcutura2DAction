@@ -2,7 +2,7 @@
 
 A 2D action-platformer architecture base for Unity: system communication, saving, scene flow, player, combat, AI, dialogue, quests, shops, cutscenes and map, all wired through events and configured with data.
 
-> **Status:** [FILL IN: the project's real version/status, e.g. "first release, still in development".]
+> **Status: Still in a beta state
 
 ## Table of contents
 
